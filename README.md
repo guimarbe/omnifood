@@ -10,4 +10,4 @@ The purpose of this repository is to learn the basics of web development and to 
 
 **Notes**
 
-I've applied some personal changes in this project, so the final result is not the same as the original code. It has some visual changes and functional changes in the jQuery code, aswell. 
+> I've applied some personal changes in this project, so the final result is not the same as the original code. It has some visual changes and functional changes in the jQuery code, aswell.
