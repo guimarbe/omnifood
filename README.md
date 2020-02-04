@@ -8,5 +8,5 @@ Omnifood is a web page example developed by Jonas Schmedtmann in the Udemy cours
 The purpose of this repository is to learn the basics of web development and to learn how to design a modern web page using HTML, CSS and basic jQuery.
 
 
-### Notes
+**Notes**
 I've applied some personal changes in this project, so the final result is not the same as the original code. It has some visual changes and functional changes in the jQuery code, aswell. 
